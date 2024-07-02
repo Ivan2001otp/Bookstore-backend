@@ -1,5 +1,11 @@
 # Bookstore-backend
-This is a REST api built using Golang with MySQL as database.
+This is a REST API built using Golang with MySQL as database.
+
+# Take-away
+- Use of GORM that connects golang program with MySQL database.
+- Request and Response type of communication interchange between client and server.
+- Error Handling using golang.
+- Proper file structure is implemented ,to ensure maintain good and readable code.
 
 # Results
 
