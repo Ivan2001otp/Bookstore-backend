@@ -8,3 +8,6 @@ This is a REST api built using Golang with MySQL as database.
 
 ## Response on deleting a book by Id
 !["Deleting a book by id response"](https://github.com/Ivan2001otp/Bookstore-backend/blob/main/output/delete%20book%20by%20id.png)
+
+## Response of Fetching all Books
+!["Fetch All books response"](https://github.com/Ivan2001otp/Bookstore-backend/blob/main/output/get%20all%20books%20endpoint.png)
