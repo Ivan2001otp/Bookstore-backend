@@ -11,3 +11,6 @@ This is a REST api built using Golang with MySQL as database.
 
 ## Response of Fetching all Books
 !["Fetch All books response"](https://github.com/Ivan2001otp/Bookstore-backend/blob/main/output/get%20all%20books%20endpoint.png)
+
+## Response of Fetch book by Id
+!["Fetch book by Id Response"](https://github.com/Ivan2001otp/Bookstore-backend/blob/main/output/get%20book%20by%20id.png)
