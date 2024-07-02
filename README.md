@@ -7,6 +7,9 @@ This is a REST API built using Golang with MySQL as database.
 - Error Handling using golang.
 - Proper file structure is implemented ,to ensure maintain good and readable code.
 
+# References
+- Youtube channel of Akhil Sharma for Golang
+
 # Results
 
 ## Response on creating a book
