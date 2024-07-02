@@ -14,3 +14,6 @@ This is a REST api built using Golang with MySQL as database.
 
 ## Response of Fetch book by Id
 !["Fetch book by Id Response"](https://github.com/Ivan2001otp/Bookstore-backend/blob/main/output/get%20book%20by%20id.png)
+
+## Response of updating book by Id
+!["Update book by Id resposne"](https://github.com/Ivan2001otp/Bookstore-backend/blob/main/output/update%20book%20by%20id.png)
